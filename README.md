@@ -45,6 +45,4 @@ Run training:
 
 ---
 
-## License
 
-MIT License
