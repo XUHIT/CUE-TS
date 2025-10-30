@@ -1,0 +1,35 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Logs
+logs/
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Data & weights
+data/
+datasets/
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build cache
+build/
+dist/
+*.egg-info/
+
+# MacOS
+.DS_Store
