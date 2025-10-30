@@ -1,4 +1,4 @@
-# CUE-TS: Soft Covariate Prompts for Time-Series Models
+# CUE-TS: Soft Covariate Prompts as a Universal Enhancer for Time Series Foundation Models
 
 Official release of CUE-TS.
 
