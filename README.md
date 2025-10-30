@@ -1,6 +1,14 @@
 # CUE-TS: Soft Covariate Prompts as a Universal Enhancer for Time Series Foundation Models
 
-Official release of CUE-TS.
+Official implementation of CUE-TS.
+
+---
+
+## Model Architecture
+
+<p align="center">
+  <img src="assets/cuets_overview.png" style="max-width: 100%; height: auto;">
+</p>
 
 ---
 
@@ -37,12 +45,6 @@ Run training:
 
 ---
 
-## Model Architecture
 
-<p align="center">
-  <img src="assets/cuets_overview.png" width="600"/>
-</p>
-
----
 
 
